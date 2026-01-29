@@ -1,4 +1,4 @@
-package com.ayubxon.simplegame
+package uz.sajdaapp
 
 import io.flutter.embedding.android.FlutterActivity
 
